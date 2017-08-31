@@ -1,8 +1,8 @@
 $(document).ready(function () {
-	var prefixes = ['My','Total','Planning','Orbital','Adventist','Apostolic'];
+	var prefixes = ['Get','My','Total','Planning','Orbital','Adventist','Apostolic'];
 	var middles = ['Ministry','Outreach','Church','Planner','Member','Faith','Community','Churches','Apostle','Apostles','Minister','Ministr','Tree','Planr','Grower','Growth'];
 	var suffixes = ['Tools','Tool','Hub','Lander','365','360','Center','able','Point','File','Mover','Maker','Base'];
-	var tlds = ['.com','.org','.tools','.church','.disciples','.faith','.community','.io','.family','.works','.directory','.center','.life','.cloud'];
+	var tlds = ['.com','.org','.tools','.church','.disciples','.faith','.community','.io','.family','.works','.directory','.center','.life','.cloud','.global'];
 
 	var numPrefixes = randomNumber(0,2);
 	var numMiddles = randomNumber(1,2);
